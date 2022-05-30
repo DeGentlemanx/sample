@@ -56,6 +56,9 @@ footer{
 	text-align: center;
 	clear: both;
 }
+div{
+	font-size: 14px;
+}
 .socialmedia{
 	border: solid black	1px;
 	border-top: 1px;
